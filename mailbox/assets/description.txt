@@ -1,0 +1,14 @@
+description:
+thez projet t7outou fi www 
+w ba3ed t7el page 
+connxion.php :
+tconnecti biha à partir mel user fel base de donnée eli andek
+sinn ithaken ma33andekech user t7el inscription.php w t3abbi user 
+w ba3ed temchi ta3mel alih login:
+hetha lien mta3 connection eli bech t7outou fi google :
+http://localhost/projet/connxion.php
+w hetha lien mta3 inscription eli bech t7otou fi google:
+http://localhost/projet/inscription.php
+lezm projet mawjoud fi www
+w 7el wamp 
+w ba3ed 7ot les lien fi google

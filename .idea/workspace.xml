@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3b3f0b38-ae68-4fa7-8468-a37fbcbff29a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jVdFPAhtsMFFBTNlB99UkBdi3T" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\Avocat\Agent" />
+      <recent name="C:\wamp64\www\Avocat\Tribual" />
+      <recent name="C:\wamp64\www\Avocat\mailbox" />
+      <recent name="C:\wamp64\www\AvocatV1.3\Avocat" />
+      <recent name="C:\wamp64\www\AvocatV1.3\Avocat\Entity" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\Avocat" />
+      <recent name="C:\wamp64\www\Avocat\Core" />
+      <recent name="C:\wamp64\www\Avocat\calendrier" />
+      <recent name="C:\wamp64\www\Avocat\OtherPages" />
+      <recent name="C:\wamp64\www\Avocat\Elements" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b3f0b38-ae68-4fa7-8468-a37fbcbff29a" name="Default Changelist" comment="" />
+      <created>1603893088253</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603893088253</updated>
+      <workItem from="1603893089623" duration="2529000" />
+      <workItem from="1604063540116" duration="9712000" />
+      <workItem from="1604177386074" duration="3858000" />
+      <workItem from="1604534465502" duration="20110000" />
+      <workItem from="1604588593761" duration="5520000" />
+      <workItem from="1604670904720" duration="540000" />
+      <workItem from="1604742474066" duration="3767000" />
+      <workItem from="1604786000277" duration="604000" />
+      <workItem from="1604853009794" duration="38691000" />
+      <workItem from="1605041268078" duration="11850000" />
+      <workItem from="1605201416198" duration="25367000" />
+      <workItem from="1605232072948" duration="1442000" />
+      <workItem from="1605257471260" duration="2936000" />
+      <workItem from="1605280208046" duration="9505000" />
+      <workItem from="1605298377530" duration="1833000" />
+      <workItem from="1607110690020" duration="13233000" />
+      <workItem from="1607341798231" duration="1611000" />
+      <workItem from="1607709342369" duration="600000" />
+      <workItem from="1607778498547" duration="4385000" />
+      <workItem from="1608576664794" duration="7756000" />
+      <workItem from="1608670406171" duration="1187000" />
+      <workItem from="1608748715808" duration="16000" />
+      <workItem from="1609015555779" duration="2561000" />
+      <workItem from="1609154574048" duration="2766000" />
+      <workItem from="1609159220540" duration="956000" />
+      <workItem from="1609180749845" duration="9134000" />
+      <workItem from="1609236553583" duration="3222000" />
+      <workItem from="1609605414948" duration="36000" />
+      <workItem from="1610651578937" duration="4548000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="559" y="92" key="#FormulaireGlobalAgent.php" timestamp="1608589263577">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="559" y="92" key="#FormulaireGlobalAgent.php/0.0.1536.824@0.0.1536.824" timestamp="1608589263577" />
+    <state x="361" y="71" key="#SQL_Dialects" timestamp="1609187987194">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#SQL_Dialects/0.0.1536.824@0.0.1536.824" timestamp="1609187987194" />
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1609238460251">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="510" y="113" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1605225996925" />
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1609238460251" />
+    <state x="523" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1604545226252">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="523" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1604545226252" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1610653507820">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1610653507820" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1609605432676">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1609605432676" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1605228216891">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605228216891" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1605228216891">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1605228216891" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1605228216890">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1605228216890" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1605228216891">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1605228216891" />
+    <state x="595" y="227" key="NewPhpClassDialog" timestamp="1604857560126">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="595" y="227" key="NewPhpClassDialog/0.0.1536.824@0.0.1536.824" timestamp="1604857560126" />
+    <state x="604" y="336" key="NewPhpFileDialog" timestamp="1608581095553">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="812" y="284" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1605289910145" />
+    <state x="604" y="336" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1608581095553" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1605224701595">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1605224701595" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1610651578833">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="414" y="209" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1605298403936" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1610651578833" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1609185923831">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1609185923831" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1608578943562">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="383" y="128" width="598" height="600" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1605208204652" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1608578943562" />
+  </component>
+</project>
